@@ -10,3 +10,8 @@
 * recently-watched-products
 * footer
 * copyright
+
+## Общие компоненты
+* default-button
+* product-card
+* sponsor-item
